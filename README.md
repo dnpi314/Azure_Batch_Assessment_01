@@ -3,7 +3,7 @@
 Introduction
 This is a Level 200 lab for the Troubleshooting in Azure Batch.
 
-##Deployment Instructions
+## Deployment Instructions
 1.	First, create a Batch and storage account using the following guidance: https://docs.microsoft.com/en-us/azure/batch/quick-create-portal#create-a-batch-account. NOTE: they both must be within the same resourceGroup
 2.	Once you have created the accounts above. Please download the code sample here: https://github.com/Walter-B-Jr/Azure_Batch_Assessment_01 
 3.	Open the code sample in VS and make the following required changes:
