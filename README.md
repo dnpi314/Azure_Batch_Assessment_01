@@ -1,4 +1,4 @@
-## Lab Name: AzureBatch.L200.Troubleshooting.4
+## Lab Name: AzureBatch.L200.Troubleshooting.1
 
 #Introduction
 
