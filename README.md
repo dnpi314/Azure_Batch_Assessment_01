@@ -1,6 +1,7 @@
 ## Lab Name: AzureBatch.L200.Troubleshooting.4
 
-Introduction
+#Introduction
+
 This is a Level 200 lab for the Troubleshooting in Azure App Service.
 Deployment Instructions
 1.	First, create a Batch and storage account using the following guidance: https://docs.microsoft.com/en-us/azure/batch/quick-create-portal#create-a-batch-account. NOTE: they both must be within the same resourceGroup
