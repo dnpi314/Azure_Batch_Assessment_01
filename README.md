@@ -26,9 +26,9 @@ This lab involves the following resources.
 
 ## Scenario
 In this lab, you will run the Batch Job. This Job’s Task should fail. 
-Your Goal
+## Your Goal
 Your goal is to identify the Task failure using our internal tools. (i.e. confirmation of failure using our internal tools). To confirm, you will be required to take a snapshot of the failure identified in KUSTO and Azure Batch Diagnostics tool. The goal is to use our internal tools to identify the Task failure. These images should include timestamps and the failure status.
-Proof of Solution
+## Proof of Solution
 1.	Provide a screen capture of KUSTO:  once you have found the error, highlighting the relevant indicators of the Task failure. KUSTO download:
 
 Redmond mirror	 http://kusto-us/ke/Kusto.Explorer.application
