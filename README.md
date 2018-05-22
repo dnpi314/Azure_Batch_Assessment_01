@@ -1,6 +1,6 @@
 ## Lab Name: AzureBatch.L200.Troubleshooting.1
 
-#Introduction
+## Introduction
 
 This is a Level 200 lab for the Troubleshooting in Azure App Service.
 Deployment Instructions
