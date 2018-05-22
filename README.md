@@ -1,9 +1,9 @@
 ## Lab Name: AzureBatch.L200.Troubleshooting.1
 
-## Introduction
+Introduction
+This is a Level 200 lab for the Troubleshooting in Azure Batch.
 
-This is a Level 200 lab for the Troubleshooting in Azure App Service.
-Deployment Instructions
+##Deployment Instructions
 1.	First, create a Batch and storage account using the following guidance: https://docs.microsoft.com/en-us/azure/batch/quick-create-portal#create-a-batch-account. NOTE: they both must be within the same resourceGroup
 2.	Once you have created the accounts above. Please download the code sample here: https://github.com/Walter-B-Jr/Azure_Batch_Assessment_01 
 3.	Open the code sample in VS and make the following required changes:
@@ -18,13 +18,13 @@ vi.	You can name your PoolID and JobID however you desire.
 
  
 
-Resources Created
+## Resources Created
 This lab involves the following resources.
 -	A Resource Group (preferable)
 -	A Batch Account (required)
 -	A Storage Account (required)
 
-Scenario
+## Scenario
 In this lab, you will run the Batch Job. This Job’s Task should fail. 
 Your Goal
 Your goal is to identify the Task failure using our internal tools. (i.e. confirmation of failure using our internal tools). To confirm, you will be required to take a snapshot of the failure identified in KUSTO and Azure Batch Diagnostics tool. The goal is to use our internal tools to identify the Task failure. These images should include timestamps and the failure status.
